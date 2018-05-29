@@ -15,7 +15,8 @@ V0.1 - 29/05/2018
      - CygWin 2.891 (racine documents utilisateur, bash et dépendances via base-cygwin)
      - Chrome (défault)
      - Firefox
-     - VLC 
+     - VLC
+     - EndPointSecurity (Microsoft)
   - Paramètres (petites icônes)
      - Wupdate
        - Rechercher mais ne pas télécharger (recommandées et importantes, tous utilsateurs)
