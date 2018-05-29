@@ -17,6 +17,7 @@ V0.1-29-05-2018
      - Firefox
      - VLC
      - EndPointSecurity (Microsoft)
+     - Thunderbird 52.8.0
   - Paramètres (petites icônes)
      - Wupdate
        - Rechercher mais ne pas télécharger (recommandées et importantes, tous utilsateurs)
