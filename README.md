@@ -7,6 +7,7 @@ V0.1 - 29/05/2018
   - Tous pilotes
     - PANASONIC (sans application, résultante zippée à la racine documents utilisateur)
     - Ambient light sensor (via .bat)
+    - Hotkeys (via setup)
   - Applicatifs (amd64)
      - 7ZIP 18.05
      - Libre Office 6.0.4 (standard, démarrage au système)
