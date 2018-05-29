@@ -10,7 +10,10 @@ V0.1 - 29/05/2018
      - 7ZIP 18.05
      - Libre Office 6.0.4 (standard, démarrage au système)
      - VirtualBox 5.2.12 (installation standard, tous pilotes autorisés)
-     - CygWin 2.891 (racine documents utilisateur, bash et dépendances)
+     - CygWin 2.891 (racine documents utilisateur, bash et dépendances via base-cygwin)
+     - Chrome (défault)
+     - Firefox
+     - VLC 
   - Paramètres (petites icônes)
      - Wupdate
        - Rechercher mais ne pas télécharger (recommandées et importantes, tous utilsateurs)
